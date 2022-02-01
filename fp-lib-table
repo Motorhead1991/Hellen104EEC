@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Hellen)(type KiCad)(uri C:/Users/Anthony/fordPnP104/kicad/footprints)(options "")(descr ""))
+  (lib (name RusEFI)(type KiCad)(uri C:/Users/Anthony/rusefi/hardware/EEC-V-Blank-Board)(options "")(descr ""))
+  (lib (name modules)(type KiCad)(uri C:/Users/Anthony/fordPnP104/ibom-data)(options "")(descr ""))
+)
